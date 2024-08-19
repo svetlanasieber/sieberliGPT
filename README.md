@@ -1,2 +1,9 @@
-# sieberliGPT
-Generative pre-trained transformer
+------------------
+Java 21
+-----------------------
+Maven 
+-------------------------
+Spring Boot 
+-----------------------------------
+Spring AI - Spring AI Integration
+--------------------------------------
